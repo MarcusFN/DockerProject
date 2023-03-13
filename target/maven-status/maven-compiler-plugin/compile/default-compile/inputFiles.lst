@@ -1,0 +1,14 @@
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/Superheltev4Application.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/repositories/DBManager.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/models/Superpower.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/repositories/ArrayRepository.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/models/SuperheroPower.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/dto/SuperpowerDTO.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/controllers/SuperheroController.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/models/City.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/dto/HeroDTO.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/dto/HeroCityDTO.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/repositories/DBRepository.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/repositories/IRepository.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/dto/SuperpowerCountDTO.java
+/Users/andersteller/IdeaProjects/superheltev4/src/main/java/dk/kea/superheltev4/models/Superhero.java

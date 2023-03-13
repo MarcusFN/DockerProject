@@ -1,0 +1,14 @@
+dk/kea/superheltev4/dto/SuperpowerDTO.class
+dk/kea/superheltev4/repositories/DBRepository.class
+dk/kea/superheltev4/dto/HeroDTO.class
+dk/kea/superheltev4/models/Superhero.class
+dk/kea/superheltev4/models/City.class
+dk/kea/superheltev4/controllers/SuperheroController.class
+dk/kea/superheltev4/repositories/DBManager.class
+dk/kea/superheltev4/Superheltev4Application.class
+dk/kea/superheltev4/dto/SuperpowerCountDTO.class
+dk/kea/superheltev4/models/SuperheroPower.class
+dk/kea/superheltev4/repositories/IRepository.class
+dk/kea/superheltev4/repositories/ArrayRepository.class
+dk/kea/superheltev4/models/Superpower.class
+dk/kea/superheltev4/dto/HeroCityDTO.class
