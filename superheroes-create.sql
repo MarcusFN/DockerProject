@@ -68,5 +68,5 @@ INSERT INTO superheropower (id, heroid, superpowerid) VALUES
 (7,3, 7);
 
 CREATE USER 'teller'@'localhost' IDENTIFIED BY 'Teller501!';
-GRANT ALL PRIVILEGES ON database_name.* TO 'teller'@'localhost' IDENTIFIED BY 'Teller501!';
+GRANT ALL PRIVILEGES ON superheroes.* TO 'teller'@'localhost';
 FLUSH PRIVILEGES;
