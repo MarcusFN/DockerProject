@@ -14,11 +14,11 @@ COPY src/ /app/src/
 # Copy the jar file from the Java project to the container
 COPY target/superheltev4-0.0.1-SNAPSHOT.jar app.jar
 
-# Copy the MariaDB deployment script to the container
+# Copy the MySQL deployment script to the container
 COPY superheroes-create.sql /docker-entrypoint-initdb.d/
 
-# Expose port 8080 for the Java app and port 3306 for MariaDB
+# Expose port 8080 for the Java app and port 3306 for MySQL
 EXPOSE 8080 3306
 
-# Start MariaDB and the Java app
-CMD ["sh", "-c", "service mysql start && java -jar app.jar"]
+# Start MySQL and the Java app
+CMD ["sh", "-c", "service mysql start && mysql -uroot -ppassword < /docker-entrypoint-initdb.d/superheroes-create.sql && java -jar -Dspring.config.location=file:/app/src/main/resources/application.properties app.jar"]
