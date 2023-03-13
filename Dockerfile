@@ -12,7 +12,7 @@ WORKDIR /app
 COPY src/ /app/src/
 
 # Copy the jar file from the Java project to the container
-COPY target/superheltev4-0.0.1-SNAPSHOT.jar app.jar
+COPY target/*.jar app.jar
 
 # Copy the MySQL deployment script to the container
 COPY superheroes-create.sql /docker-entrypoint-initdb.d/
