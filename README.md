@@ -5,30 +5,30 @@
 
 Brief description of the project.
 
-Prerequisites
+## Prerequisites
 
 List any software dependencies or system requirements needed to run the project.
 
-Installation
+## Installation
 
 Step-by-step instructions for installing and running the project.
 
 Clone the repository: git clone https://github.com/your-username/project.git
 Build the Docker image: docker build -t my-image:latest .
 Run the Docker container: docker run -p 8080:80 my-image:latest
-Usage
+## Usage
 
 Instructions for how to use the project once it is installed and running.
 
-Contributing
+## Contributing
 
 Guidelines for how to contribute to the project, if applicable.
 
-License
+## License
 
 The project's license and any relevant copyright information.
 
-Acknowledgements
+## Acknowledgements
 
 Any acknowledgements or credits for external libraries, resources, or contributors.
 
