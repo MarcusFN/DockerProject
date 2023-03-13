@@ -3,7 +3,7 @@
 # Welcome to The Docker manual
 <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="250">
 
-Brief description of the project.
+This project takes a Maven project and a Mysql server and deploys it to a Docker container.
 
 ## Prerequisites
 
